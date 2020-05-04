@@ -1,0 +1,22 @@
+{
+  "name": "LavuTheme",
+  "version": "0.1.0",
+  "summary": "A short description of LavuTheme.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/vegiraju-chandu/LavuTheme",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vegiraju-chandu": "appalaraju.in@lavu.com"
+  },
+  "source": {
+    "git": "https://github.com/vegiraju-chandu/LavuTheme.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LavuTheme/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module Pods_LavuTheme_Example {
+  umbrella header "Pods-LavuTheme_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

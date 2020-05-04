@@ -1,0 +1,6 @@
+framework module LavuTheme {
+  umbrella header "LavuTheme-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - LavuTheme (0.1.0)
+
+DEPENDENCIES:
+  - LavuTheme (from `../`)
+
+EXTERNAL SOURCES:
+  LavuTheme:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LavuTheme: f2837b2fb3a41bcbb8af07193bd3a64b6a0b26df
+
+PODFILE CHECKSUM: 58c052db355dcb36109bcf179a892a81f93b362b
+
+COCOAPODS: 1.8.4
