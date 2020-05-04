@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LavuTheme_Example' do
+  pod 'LavuTheme', :path => '../'
+
+  target 'LavuTheme_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
