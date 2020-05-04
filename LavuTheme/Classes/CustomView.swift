@@ -17,4 +17,8 @@ public class CustomView : UIView {
     func color(red:CGFloat,green:CGFloat,blue:CGFloat) -> UIColor {
         return UIColor ( red: red/255.0, green: green/255.0, blue: blue/255.0, alpha: 1);
     }
+    
+    public func makeBlackBackground() {
+        self.backgroundColor = UIColor.black;
+    }
 }
